@@ -1,6 +1,6 @@
 # Key Light Automation
 
-A simple script to automate a HomeKit light turning on/off with a web cam's start/stop state in macOS. I use a Hue Play light bar set to a specific white color temperature, but this should work with any HomeKit light.
+A simple script to automate a HomeKit light turning on/off with a webcam's start/stop state in macOS. I use a Hue Play light bar set to a specific white color temperature, but this should work with any HomeKit light.
 
 ## Instructions
 
