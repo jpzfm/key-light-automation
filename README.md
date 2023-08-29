@@ -10,6 +10,8 @@ A simple script to control a HomeKit key light via the web cam's start/stop stat
 4. Place the edited .plist file in `~/Library/LaunchAgents/`.
 5. Run `launchctl load ~/Library/LaunchAgents/com.key-light-automation.plist` in your shell to load the script. It will be loaded in subsequent reboots.
 
+### Example Shortcut
+
 ![Example Shortcut](Resources/Example_Shortcut.png)
 
 ## Credit
